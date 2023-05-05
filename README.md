@@ -1,7 +1,20 @@
-### Hi there 👋
+# Hi there 👋, I'm Lilith.
 
+- 🔭 I’m currently a graduate student in software engineering at SEU 
+- 🤔 My research direction is federated recommender systems
+- 🌱 I’m currently learning Java programming
+- ✍ I like using Notion to planning daily todos
+- ⭐ ...
+
+## ☘️ Github Stats
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=LilithHC&show_icons=true&theme=tokyonight)
+
+## ❄️ Github Lang
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilithHC&layout=compact&theme=tokyonight)
+
+<!--✨⭐❄️☘️-->
 <!--
-**LilithHC/LilithHC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LilithHC/LilithHC** is a ✨ _special_ ✨ repoitory because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
