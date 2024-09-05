@@ -3,7 +3,7 @@
 - 🔭 I’m currently a graduate student in software engineering at SEU 
 - 🤔 My research direction is federated recommender systems
 - 🌱 I’m currently learning Java programming
-- ✍ I like using Notion to planning daily todos
+- ✍ I like using Obsidian to planning daily todos
 - ⭐ ...
 
 ## ☘️ Github Stats
